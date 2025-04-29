@@ -1,4 +1,7 @@
 import React from "react";
+import { mount } from "marketing/MarketingApp";
+
+
 function App() {
   return <h1>hi there!!</h1>;
 }
